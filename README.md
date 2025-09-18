@@ -1,3 +1,8 @@
+https://amanmohammed2004.github.io/bootstrap-internship/
+
+https://github.com/AmanMohammed2004/bootstrap-internship
+
+
 # Bootstrap Internship Project
 
 ## Live Demo
@@ -21,3 +26,4 @@ A responsive 3-page website built using Bootstrap 5. Includes a navbar, hero, ca
 
 ## AI Usage
 I used ChatGPT to generate starter templates and then customized them.
+
