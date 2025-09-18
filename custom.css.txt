@@ -1,0 +1,12 @@
+/* Custom Styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: linear-gradient(90deg, rgba(13,110,253,0.1), rgba(13,110,253,0.05));
+}
+
+footer {
+  background: #f8f9fa;
+}
